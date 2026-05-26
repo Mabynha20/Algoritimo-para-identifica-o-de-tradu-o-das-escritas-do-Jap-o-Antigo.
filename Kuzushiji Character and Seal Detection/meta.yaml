@@ -1,0 +1,10 @@
+# patch: /path/to/data
+path: 'C:/Faculdade/Conteudos/Projeto integrador/Teste_YOLO/Kuzushiji Character and Seal Detection'
+train: 'C:/Faculdade/Conteudos/Projeto integrador/Teste_YOLO/Kuzushiji Character and Seal Detection/images/train'
+val: 'C:/Faculdade/Conteudos/Projeto integrador/Teste_YOLO/Kuzushiji Character and Seal Detection/images/valid'
+test: 'C:/Faculdade/Conteudos/Projeto integrador/Teste_YOLO/Kuzushiji Character and Seal Detection/images/test'
+
+nc: 2
+names:
+  0: Kuzushiji
+  1: Seal
